@@ -82,4 +82,4 @@ And repeat
   
   box (tap 2 times)
 
-        houseasdfasdfklasdflhasdfkjlasdfhasdfasd
+        houseasdfasdfklasdflhss
